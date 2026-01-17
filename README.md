@@ -4,7 +4,7 @@
 uv add -r requirements.txt --active
 
 ### To run project :
-Terminal_1 (MCP Server with stdio): python mathserver.py
-Terminal_2 (MCP Server with http): python weather.py
-Terminal_3 (MCP Client uses MCP server) : python client.py 
+- Terminal_1 (MCP Server with stdio): python mathserver.py
+- Terminal_2 (MCP Server with http): python weather.py
+- Terminal_3 (MCP Client uses MCP server) : python client.py 
 
